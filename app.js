@@ -31,6 +31,7 @@ import * as util from './util.js';
 // const greeting1 = createGreeting('max');
 // console.log(greeting1)
 
+//Function assignment
 function combine(a, b, c) {
   const newValue = (a * b) / c;
   return newValue;
